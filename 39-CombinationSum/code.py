@@ -24,7 +24,7 @@ class Solution(object):
             result.append(path)
             return
         for i in range(len(candidates)):
-            if candidates[i] > target:           # 提高速度
+            if candidates[i] > target:           # 提前退出，剪枝提高速度
                 break
             self.dfs(candidates[i:], target - candidates[i], path + [candidates[i]], result)
 
