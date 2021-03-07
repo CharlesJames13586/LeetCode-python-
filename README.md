@@ -5,4 +5,5 @@
 
 |题号|代码|求解思路|完成时间|
 |:---:|:---:|:---:|:---:|
-| 39. Combination Sum | [code.py](./39-CombinationSum/code.py) | [求解思路.md](./39-CombinationSum/求解思路.md) | 2021/2/28 |
+| 39. Combination Sum | [code.py](./39-CombinationSum/code.py) | [求解思路.md](./39-CombinationSum/求解思路.md) | 2021/02/28 |
+| 40. Combination Sum II | [code.py](./40-CombinationSumII/code.py) | [求解思路.md](./40-CombinationSumII/求解思路.md) | 2021/03/07 |
