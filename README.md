@@ -4,6 +4,10 @@
 且提交到GitHub上。  
 
 |题号|代码|求解思路|完成时间|
-|:---:|:---:|:---:|:---:|
+|:---|---:|:---:|:---:|
 | 39. Combination Sum | [code.py](./39-CombinationSum/code.py) | [求解思路.md](./39-CombinationSum/求解思路.md) | 2021/02/28 |
 | 40. Combination Sum II | [code.py](./40-CombinationSumII/code.py) | [求解思路.md](./40-CombinationSumII/求解思路.md) | 2021/03/07 |
+| 41. FirstMissingPositive | [solution_code.py](./41-FirstMissingPositive/solution_code.py) | [求解思路.md](./41-FirstMissingPositive/求解思路.md) | 2021/03/11 |
+
+##### 提示
+将代码名字命名为code.py的时候，在pycharm中调试的时候会出错，会出现命名冲突，可以改为其它名字
