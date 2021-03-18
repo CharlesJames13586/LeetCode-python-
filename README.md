@@ -11,4 +11,4 @@
 | 42. Trapping Rain Water | [solution_code.py](./42-TrappingRainWater/solution_code.py) | [求解思路.md](./42-TrappingRainWater/求解思路.md) | 2021/03/18 |
 
 ##### 提示
-将代码名字命名为code.py的时候，在pycharm中调试的时候会出错，会出现命名冲突，可以改为其它名字
+将代码名字命名为code.py的时候，在pycharm中debug的时候会出错，会出现命名冲突，可以改为其它名字
