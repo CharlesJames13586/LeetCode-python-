@@ -9,6 +9,7 @@
 | 40. Combination Sum II | [code.py](./40-CombinationSumII/code.py) | [求解思路.md](./40-CombinationSumII/求解思路.md) | 2021/03/07 |
 | 41. First Missing Positive | [solution_code.py](./41-FirstMissingPositive/solution_code.py) | [求解思路.md](./41-FirstMissingPositive/求解思路.md) | 2021/03/11 |
 | 42. Trapping Rain Water | [solution_code.py](./42-TrappingRainWater/solution_code.py) | [求解思路.md](./42-TrappingRainWater/求解思路.md) | 2021/03/18 |
+| 43. Multiply Strings | [solution_code.py](./43-MultiplyStrings/solution_code.py) | [求解思路.md](./43-MultiplyStrings/求解思路.md) | 2021/03/24 |
 
 ##### 提示
-将代码名字命名为code.py的时候，在pycharm中debug的时候会出错，会出现命名冲突，可以改为其它名字
+将代码名字命名为code.py的时候，在pychanrm中debug的时候会出错，会出现命名冲突，可以改为其它名字

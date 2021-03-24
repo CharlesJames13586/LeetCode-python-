@@ -30,5 +30,5 @@ class Solution(object):
 
 if __name__ == "__main__":
     solution = Solution()
-    nums = [3,4,-1,1]
+    nums = [3, 4, -1, 1]
     print(solution.firstMissingPositive2(nums))
