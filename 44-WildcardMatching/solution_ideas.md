@@ -107,7 +107,7 @@ while s_index < s_length:                # s被匹配成功后截止
 while p_index < p_lenght and p[p_index] == '*':
     p_index = p_index + 1
     # 如果p未扫描结束，宣告失败
-    return not p_index < p_lenght
+return not p_index < p_lenght
 ```
 
 后者的算法是一种贪心的DFS，因为它使得前面的`'*'`都匹配了尽量少的字符长度（除了最后一个），
