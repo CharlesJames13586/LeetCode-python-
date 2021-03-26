@@ -11,6 +11,7 @@
 | 42. Trapping Rain Water | [solution_code.py](./42-TrappingRainWater/solution_code.py) | [求解思路.md](./42-TrappingRainWater/求解思路.md) | 2021/03/18 |
 | 43. Multiply Strings | [solution_code.py](./43-MultiplyStrings/solution_code.py) | [求解思路.md](./43-MultiplyStrings/求解思路.md) | 2021/03/24 |
 | 44. Wildcard MAtching | [solution_code.py](./44-WildcardMatching/solution_code.py) | [solution_ideas.md](./44-WildcardMatching/solution_ideas.md) | 2021/03/25 |
+| 45. Jump Game II | [solution_code.py](./45-JumpGameII/solution_code.py) | [solution_ideas.md](./45-JumpGameII/solution_ideas.md) | 2021/03/26 |
 
 ##### 提示
 * 将代码名字命名为code.py的时候，在pycharm中debug的时候会出错，会出现命名冲突，可以改为其它名字
