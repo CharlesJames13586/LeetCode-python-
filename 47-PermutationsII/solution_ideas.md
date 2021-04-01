@@ -46,6 +46,6 @@ class Solution(object):
                 self.permute_search(nums[:i] + nums[i+1:], path + [nums[i]], result)
 ```
 
-两种算法的时间对比：
-![提交结果](./Source/result.png)
+两种算法的时间对比：  
+![提交结果](./Source/result.png)  
 运行时间从904ms提升到40ms，提升效果明显。
