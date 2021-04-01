@@ -13,6 +13,7 @@
 | 44. Wildcard MAtching | [solution_code.py](./44-WildcardMatching/solution_code.py) | [solution_ideas.md](./44-WildcardMatching/solution_ideas.md) | 2021/03/25 |
 | 45. Jump Game II | [solution_code.py](./45-JumpGameII/solution_code.py) | [solution_ideas.md](./45-JumpGameII/solution_ideas.md) | 2021/03/26 |
 | 46. Permutations | [solution_code.py](./46-Permutations/solution_code.py) | [solution_ideas.md](./46-Permutations/solution_ideas.md) | 2021/03/27 |
+| 47. Permutations II | [solution_code.py](./47-PermutationsII/solution_code.py) | [solution_ideas.md](./47-PermutationsII/solution_ideas.md) | 2021/04/01 |
 
 ##### 提示
 * 将代码名字命名为code.py的时候，在pycharm中debug的时候会出错，会出现命名冲突，可以改为其它名字
