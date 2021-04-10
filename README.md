@@ -15,6 +15,7 @@
 | 46. Permutations | [solution_code.py](./46-Permutations/solution_code.py) | [solution_ideas.md](./46-Permutations/solution_ideas.md) | 2021/03/27 |
 | 47. Permutations II | [solution_code.py](./47-PermutationsII/solution_code.py) | [solution_ideas.md](./47-PermutationsII/solution_ideas.md) | 2021/04/01 |
 | 48. Rotate Image | [solution_code.py](./48-RotateImage/solution_code.py) | [solution_ideas.md](./48-RotateImage/solution_ideas.md) | 2021/04/01 |
+| 49. Group Anagrams | [solution_code.py](./49-GroupAnagrams/solution_code.py) | [solution_ideas.md](./49-GroupAnagrams/solution_ideas.md) | 2021/04/10 |
 
 ##### 提示
 * 将代码名字命名为code.py的时候，在pycharm中debug的时候会出错，会出现命名冲突，可以改为其它名字
