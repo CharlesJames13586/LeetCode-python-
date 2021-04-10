@@ -35,4 +35,4 @@ original letters exactly once.
 
 ![提交结果](./Source/result.png)  
 
-20:09分的是第一种方法，20:07的是第二个方法。
+20:09的是第一种方法，20:07的是第二个方法。
