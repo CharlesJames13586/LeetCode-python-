@@ -17,6 +17,10 @@
 | 48. Rotate Image | [solution_code.py](./48-RotateImage/solution_code.py) | [solution_ideas.md](./48-RotateImage/solution_ideas.md) | 2021/04/01 |
 | 49. Group Anagrams | [solution_code.py](./49-GroupAnagrams/solution_code.py) | [solution_ideas.md](./49-GroupAnagrams/solution_ideas.md) | 2021/04/10 |
 
+|题号|readme.md|
+|---|---|
+|50-59|[转到50-59](./50-59/readme.md)
+
 ##### 提示
 * 将代码名字命名为code.py的时候，在pycharm中debug的时候会出错，会出现命名冲突，可以改为其它名字
 * 自己电脑的pycharm的markdown插件突然不识别中文命名的md文件，只能将md文件改为英文名
