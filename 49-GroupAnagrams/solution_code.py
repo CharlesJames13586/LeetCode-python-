@@ -1,24 +1,6 @@
 class Solution(object):
 
 
-    def groupAnagrams_1(self, strs):
-        """
-        :type strs: List[str]
-        :rtype: List[List[str]]
-        """
-        outputs = []
-        result = []
-        for i in range(len(strs)):
-            output = self.embedd(strs[i])
-            if output not in outputs:
-                outputs.append(output)
-                result.append([strs[i]])
-            else:
-                index = outputs.index(output)
-                result[index].append(strs[i])
-
-        return result
-
     def groupAnagrams(self, strs):
         """
         :type strs: List[str]
@@ -26,10 +8,22 @@ class Solution(object):
         """
         hashmap = {}
         for i in range(len(strs)):
-            # output = self.embedd(strs[i])
-            # key = ''
-            # for num in output:
-            #     key = key + ' ' + str(num)
+            output = self.embedd(strs[i])
+            key = tuple(output)
+            if key not in hashmap:
+                hashmap[key] = [strs[i]]
+            else:
+                hashmap[key].append(strs[i])
+
+        return list(hashmap.values())
+
+    def groupAnagrams_1(self, strs):
+        """
+        :type strs: List[str]
+        :rtype: List[List[str]]
+        """
+        hashmap = {}
+        for i in range(len(strs)):
             output = sorted(strs[i])
             key = tuple(output)
             if key not in hashmap:
