@@ -8,3 +8,4 @@
 | 54. Spiral Matrix | [solution_code.py](./54-SpiralMatrix/solution_code.py)| [solution_ideas.md](./54-SpiralMatrix/solution_ideas.md) | 2021/04/14 |
 | 55. Jump Game | [solution_code.py](./55-JumpGame/solution_code.py)| [solution_ideas.md](./55-JumpGame/solution_ideas.md) | 2021/04/16 |
 | 56. Merge Intevals | [solution_code.py](./56-MergeIntevals/solution_code.py)| [solution_ideas.md](./56-MergeIntevals/solution_ideas.md) | 2021/04/16 |
+| 58. Length of Last Word | [solution_code.py](./58-LengthOfLastWord/solution_code.py)| [solution_ideas.md](./58-LengthOfLastWord/solution_ideas.md) | 2021/04/16 |
