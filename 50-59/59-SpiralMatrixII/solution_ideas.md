@@ -21,7 +21,7 @@ Given a positive integer `n`, generate an `n x n` `matrix` filled with elements 
 
 `self.curDireIndex`记录当前扫描的方向，将`matrix`初始化为`n * n`的二维列表，元素都为`0`。
 
-函数`next(i,j,SpiralMatrix)`用来获得下一个要访问的索引值，其具体实现为：  
+函数`next(i,j,matrix)`用来获得下一个要访问的索引值，其具体实现为：  
 
 ```python
     def next(self, i, j, matrix):
