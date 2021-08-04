@@ -8,3 +8,4 @@
 | 74. Search a 2D Matrix | [solution_code.py](./74-SearchA2DMatrix/solution_code.py) | [solution_ideas.md](./74-SearchA2DMatrix/solution_ideas.md) | 2021/07/01 |
 | 75. Sort Colors | [solution_code.py](./75-SortColors/solution_code.py) | [solution_ideas.md](./75-SortColors/solution_ideas.md) | 2021/07/01 |
 | 76. Minimum Window Substring | [solution_code.py](./76-MinimumWindowSubstring/solution_code.py) | [solution_ideas.md](./76-MinimumWindowSubstring/solution_ideas.md) | 2021/08/01 |
+| 77. Combinations | [solution_code.py](./77-Combinations/solution_code.py) | [solution_ideas.md](./77-Combinations/solution_ideas.md) | 2021/08/04 |
