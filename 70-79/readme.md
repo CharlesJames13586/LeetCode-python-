@@ -9,3 +9,4 @@
 | 75. Sort Colors | [solution_code.py](./75-SortColors/solution_code.py) | [solution_ideas.md](./75-SortColors/solution_ideas.md) | 2021/07/01 |
 | 76. Minimum Window Substring | [solution_code.py](./76-MinimumWindowSubstring/solution_code.py) | [solution_ideas.md](./76-MinimumWindowSubstring/solution_ideas.md) | 2021/08/01 |
 | 77. Combinations | [solution_code.py](./77-Combinations/solution_code.py) | [solution_ideas.md](./77-Combinations/solution_ideas.md) | 2021/08/04 |
+| 78. Subsets | [solution_code.py](./78-Subsets/solution_code.py) | [solution_ideas.md](./78-Subsets/solution_ideas.md) | 2021/08/10 |
